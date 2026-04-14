@@ -1,6 +1,6 @@
 # 🌊 常大河道水面垃圾巡检系统 V2.0
 
-**👉 [点我直接下载 Windows 客户端]**
+**👉 [点我直接下载 Windows 客户端](https://github.com/lichuanjie31-prog/-/releases/download/v2.0/_V2.0.exe)**
 
 > **项目状态**：已完成 V2.0 精度优化，适配 NVIDIA RTX 5060。
 
