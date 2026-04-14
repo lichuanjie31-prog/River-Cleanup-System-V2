@@ -1,0 +1,13 @@
+train: D:\Innovation_Project\WaterTrash-1\train\images
+val: D:\Innovation_Project\WaterTrash-1\valid\images
+test: D:\Innovation_Project\WaterTrash-1\test\images
+
+nc: 2
+names: ['non-trash', 'trash']
+
+roboflow:
+  workspace: try-uqrjj
+  project: trash-in-river
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/try-uqrjj/trash-in-river/dataset/2
