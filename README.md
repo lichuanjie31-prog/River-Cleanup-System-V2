@@ -25,6 +25,27 @@
 2. **遮挡补全**: 强化了对被水草切断的破碎特征的学习。
 3. **性能**: 在 5060 显卡加持下，单帧推理延迟低于 5ms。
 
+## 🖼️ 运行效果展示 (V2.0 实战)
+
+### 模式 A：实时河道监控 (RTX 5060 加速)
+针对 V1.0 的反光与遮挡痛点进行深度微调，实现了毫秒级精准追踪。
+
+<img width="1268" height="1155" alt="demo_live" src="https://github.com/user-attachments/assets/9d4e5f7f-a788-4e0c-bae0-ad45869ce656" />
+
+
+### 模式 B：文件夹批量分析
+支持导入调研照片文件夹，自动输出带检测框的分析结果至 `Results_Output_V2`。
+
+![demo_batch](https://github.com/user-attachments/assets/32279108-fcba-4497-89e9-4eedc35b65ed)
+
+
+### 实时数据波动图
+同步显示当前画面中的垃圾数量变化，方便记录排污峰值。
+
+<img width="933" height="809" alt="demo_chart" src="https://github.com/user-attachments/assets/723f295d-ec60-43af-a696-a0205afc0bf5" />
+
+
+
 ## 📖 操作指南 (Quick Start)
 
 为了确保 V2.0 系统在不同环境下都能稳定运行，请参考以下操作步骤：
