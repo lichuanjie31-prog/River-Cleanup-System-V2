@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.11-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 # 🌊 常大河道水面垃圾巡检系统 V2.0
 
 **👉 [点我直接下载 Windows 客户端](https://github.com/lichuanjie31-prog/-/releases/download/v2.0/_V2.0.exe)**
